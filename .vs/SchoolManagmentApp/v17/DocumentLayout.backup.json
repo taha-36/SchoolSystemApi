@@ -1,0 +1,927 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\commands\\studentenrollcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\studentenrollcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\entities\\departmentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\departmentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\entities\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\dtos\\studentenrollcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\dtos\\studentenrollcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\dtos\\enrollcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\dtos\\enrollcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\commands\\addcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\addcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\commands\\addcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\addcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\common\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\common\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\common\\utilities\\usersdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\common\\utilities\\usersdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\commands\\registerstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\registerstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\commands\\registerstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\registerstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A26284-0DF8-4EA1-82D7-4297E2AB30B9}|CleanArchitecture\\SchoolApp.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\cleanarchitecture\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A26284-0DF8-4EA1-82D7-4297E2AB30B9}|CleanArchitecture\\SchoolApp.csproj|solutionrelative:cleanarchitecture\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\commands\\studentenrollcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\studentenrollcoursecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\dtos\\getcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\dtos\\getcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\dtos\\addcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\dtos\\addcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\commands\\registerteacherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\registerteacherhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\commands\\registersystemuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\registersystemuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\commands\\registerteacherassistanthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\registerteacherassistanthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C744D7D-8D68-4DB9-B7A2-6CBE22E7E0EB}|Infrastructure\\Infrastructure.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C744D7D-8D68-4DB9-B7A2-6CBE22E7E0EB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\commands\\registersystemusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\registersystemusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\dtos\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\dtos\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\queries\\getusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\queries\\getusershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\queries\\getusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\queries\\getusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\common\\utilities\\generatecourseid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\common\\utilities\\generatecourseid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\queries\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\queries\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\extensions\\jwtauthenticationext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\extensions\\jwtauthenticationext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A26284-0DF8-4EA1-82D7-4297E2AB30B9}|CleanArchitecture\\SchoolApp.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A26284-0DF8-4EA1-82D7-4297E2AB30B9}|CleanArchitecture\\SchoolApp.csproj|solutionrelative:cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C744D7D-8D68-4DB9-B7A2-6CBE22E7E0EB}|Infrastructure\\Infrastructure.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C744D7D-8D68-4DB9-B7A2-6CBE22E7E0EB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A26284-0DF8-4EA1-82D7-4297E2AB30B9}|CleanArchitecture\\SchoolApp.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\cleanarchitecture\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A26284-0DF8-4EA1-82D7-4297E2AB30B9}|CleanArchitecture\\SchoolApp.csproj|solutionrelative:cleanarchitecture\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A26284-0DF8-4EA1-82D7-4297E2AB30B9}|CleanArchitecture\\SchoolApp.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74A26284-0DF8-4EA1-82D7-4297E2AB30B9}|CleanArchitecture\\SchoolApp.csproj|solutionrelative:cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\entities\\teacherassistantcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\teacherassistantcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\entities\\teachercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\teachercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\repos\\coursestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\repos\\coursestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\repos\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\repos\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\commands\\registerteachercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\registerteachercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\commands\\registerteacherassistantcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\registerteacherassistantcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\entities\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\entities\\teacherassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\teacherassistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E118A16-01EC-4D82-B3FF-266A7D981ECD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\dtos\\registerteacherassistantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\dtos\\registerteacherassistantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A26284-0DF8-4EA1-82D7-4297E2AB30B9}|CleanArchitecture\\SchoolApp.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\cleanarchitecture\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74A26284-0DF8-4EA1-82D7-4297E2AB30B9}|CleanArchitecture\\SchoolApp.csproj|solutionrelative:cleanarchitecture\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\application\\features\\users\\dtos\\registersystemuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAAAF1E-AEA1-42A5-B07D-BE02134F537E}|Application\\Application.csproj|solutionrelative:application\\features\\users\\dtos\\registersystemuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C744D7D-8D68-4DB9-B7A2-6CBE22E7E0EB}|Infrastructure\\Infrastructure.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\infrastructure\\migrations\\20250215194342_newentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C744D7D-8D68-4DB9-B7A2-6CBE22E7E0EB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250215194342_newentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C744D7D-8D68-4DB9-B7A2-6CBE22E7E0EB}|Infrastructure\\Infrastructure.csproj|c:\\users\\abdel\\source\\repos\\cleanarchitecture\\infrastructure\\migrations\\20250214215427_addedhirarchyofusertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C744D7D-8D68-4DB9-B7A2-6CBE22E7E0EB}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250214215427_addedhirarchyofusertypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentEnrollCourseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\StudentEnrollCourseHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\StudentEnrollCourseHandler.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\StudentEnrollCourseHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\StudentEnrollCourseHandler.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:19:14.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddCourseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\AddCourseHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\AddCourseHandler.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\AddCourseHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\AddCourseHandler.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:31:09.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:10:05.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\StudentCourse.cs",
+              "RelativeToolTip": "Domain\\Entities\\StudentCourse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:35:49.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\Department.cs",
+              "RelativeToolTip": "Domain\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:14:19.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\DepartmentCourse.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\DepartmentCourse.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\DepartmentCourse.cs",
+              "RelativeToolTip": "Domain\\Entities\\DepartmentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:53:02.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentEnrollCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\StudentEnrollCourseDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\DTOs\\StudentEnrollCourseDto.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\StudentEnrollCourseDto.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\DTOs\\StudentEnrollCourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:39:42.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\DTOs\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\DTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:03:50.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnrollCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\EnrollCourseDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\DTOs\\EnrollCourseDto.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\EnrollCourseDto.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\DTOs\\EnrollCourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:03:08.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddCourseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\AddCourseCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\AddCourseCommand.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\AddCourseCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\AddCourseCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:29:56.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Common\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\Result.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Common\\Models\\Result.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:10:39.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterStudentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\RegisterStudentCommand.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterStudentCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\RegisterStudentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:56:06.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterStudentHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\RegisterStudentHandler.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterStudentHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\RegisterStudentHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:14:00.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersDictionary.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Common\\Utilities\\UsersDictionary.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Utilities\\UsersDictionary.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Common\\Utilities\\UsersDictionary.cs",
+              "RelativeToolTip": "Application\\Common\\Utilities\\UsersDictionary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:50:47.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\CleanArchitecture\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\CleanArchitecture\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CleanArchitecture\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwv3IAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:38:49.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentEnrollCourseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\StudentEnrollCourseCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\StudentEnrollCourseCommand.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\StudentEnrollCourseCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\StudentEnrollCourseCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:18:21.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\GetCourseDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\DTOs\\GetCourseDto.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\GetCourseDto.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\DTOs\\GetCourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:01:17.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\Course.cs",
+              "RelativeToolTip": "Domain\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T20:22:06.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\AddCourseDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\DTOs\\AddCourseDto.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\AddCourseDto.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\DTOs\\AddCourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:10:52.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterTeacherHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterTeacherHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\RegisterTeacherHandler.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterTeacherHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\RegisterTeacherHandler.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:16:12.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterSystemUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterSystemUserHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\RegisterSystemUserHandler.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterSystemUserHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\RegisterSystemUserHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:01:54.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegisterTeacherAssistantHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterTeacherAssistantHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\RegisterTeacherAssistantHandler.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterTeacherAssistantHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\RegisterTeacherAssistantHandler.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwEIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:16:39.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwEwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:43:21.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterSystemUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterSystemUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\RegisterSystemUserCommand.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterSystemUserCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\RegisterSystemUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:00:29.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\GetUserDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\DTOs\\GetUserDto.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\GetUserDto.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\DTOs\\GetUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:15:14.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetUsersHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Queries\\GetUsersHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Queries\\GetUsersHandler.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Queries\\GetUsersHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Queries\\GetUsersHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:18:51.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetUsersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Queries\\GetUsersQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Queries\\GetUsersQuery.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Queries\\GetUsersQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Queries\\GetUsersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:05:23.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GenerateCourseId.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Common\\Utilities\\GenerateCourseId.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Utilities\\GenerateCourseId.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Common\\Utilities\\GenerateCourseId.cs",
+              "RelativeToolTip": "Application\\Common\\Utilities\\GenerateCourseId.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:12:54.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Queries\\LoginHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Queries\\LoginHandler.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Queries\\LoginHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Queries\\LoginHandler.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwDUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:03:36.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JwtAuthenticationExt.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Extensions\\JwtAuthenticationExt.cs",
+              "RelativeDocumentMoniker": "Application\\Extensions\\JwtAuthenticationExt.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Extensions\\JwtAuthenticationExt.cs",
+              "RelativeToolTip": "Application\\Extensions\\JwtAuthenticationExt.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:02:40.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\CleanArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\Program.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\CleanArchitecture\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:04:54.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:42:40.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:49:24.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Domain\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\DependencyInjection.cs",
+              "RelativeToolTip": "Domain\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T12:42:49.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\CleanArchitecture\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\CleanArchitecture\\DependencyInjection.cs",
+              "RelativeToolTip": "CleanArchitecture\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:02:53.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\CleanArchitecture\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecture\\appsettings.json",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\CleanArchitecture\\appsettings.json",
+              "RelativeToolTip": "CleanArchitecture\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T14:31:41.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginQuery.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Queries\\LoginQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Queries\\LoginQuery.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Queries\\LoginQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Queries\\LoginQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:03:26.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TeacherAssistantCourse.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\TeacherAssistantCourse.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TeacherAssistantCourse.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\TeacherAssistantCourse.cs",
+              "RelativeToolTip": "Domain\\Entities\\TeacherAssistantCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:09:28.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TeacherCourse.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\TeacherCourse.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TeacherCourse.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\TeacherCourse.cs",
+              "RelativeToolTip": "Domain\\Entities\\TeacherCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:09:16.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CourseStatus.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Repos\\CourseStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Repos\\CourseStatus.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Repos\\CourseStatus.cs",
+              "RelativeToolTip": "Domain\\Repos\\CourseStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:50:26.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Repos\\Level.cs",
+              "RelativeDocumentMoniker": "Domain\\Repos\\Level.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Repos\\Level.cs",
+              "RelativeToolTip": "Domain\\Repos\\Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:44:34.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\Teacher.cs",
+              "RelativeToolTip": "Domain\\Entities\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:33:53.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RegisterTeacherCommand.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterTeacherCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\RegisterTeacherCommand.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterTeacherCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\RegisterTeacherCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:15:54.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RegisterTeacherAssistantCommand.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterTeacherAssistantCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\RegisterTeacherAssistantCommand.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\Commands\\RegisterTeacherAssistantCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\RegisterTeacherAssistantCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:34:18.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SystemUser.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\SystemUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\SystemUser.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\SystemUser.cs",
+              "RelativeToolTip": "Domain\\Entities\\SystemUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:10:25.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TeacherAssistant.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\TeacherAssistant.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TeacherAssistant.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\TeacherAssistant.cs",
+              "RelativeToolTip": "Domain\\Entities\\TeacherAssistant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:04:54.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:02:36.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\Staff.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Staff.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\Staff.cs",
+              "RelativeToolTip": "Domain\\Entities\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:10:13.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:06:36.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RegisterTeacherAssistantDto.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\RegisterTeacherAssistantDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\DTOs\\RegisterTeacherAssistantDto.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\RegisterTeacherAssistantDto.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\DTOs\\RegisterTeacherAssistantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:18:42.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\CleanArchitecture\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecture\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\CleanArchitecture\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CleanArchitecture\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T14:31:33.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RegisterSystemUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\RegisterSystemUserDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\DTOs\\RegisterSystemUserDto.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Application\\Features\\Users\\DTOs\\RegisterSystemUserDto.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\DTOs\\RegisterSystemUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:59:16.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250215194342_NewEntities.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Infrastructure\\Migrations\\20250215194342_NewEntities.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250215194342_NewEntities.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Infrastructure\\Migrations\\20250215194342_NewEntities.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250215194342_NewEntities.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAAMwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T19:43:43.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250214215427_AddedHirarchyOfUserTypes.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Infrastructure\\Migrations\\20250214215427_AddedHirarchyOfUserTypes.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250214215427_AddedHirarchyOfUserTypes.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CleanArchitecture\\Infrastructure\\Migrations\\20250214215427_AddedHirarchyOfUserTypes.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250214215427_AddedHirarchyOfUserTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T21:54:29.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

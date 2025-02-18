@@ -1,0 +1,124 @@
+[
+  {
+    "ContainingType": "SchoolApp.Controllers.UsersController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolApp.Controllers.UsersController",
+    "Method": "AddCourse",
+    "RelativePath": "api/Users/AddCourse",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Application.Features.Users.DTOs.AddCourseDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolApp.Controllers.UsersController",
+    "Method": "StudentEnroll",
+    "RelativePath": "api/Users/EnrollCourses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Application.Features.Users.DTOs.StudentEnrollCourseDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolApp.Controllers.UsersController",
+    "Method": "Login",
+    "RelativePath": "api/Users/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "Application.Features.Users.DTOs.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolApp.Controllers.UsersController",
+    "Method": "RegisterStudent",
+    "RelativePath": "api/Users/RegisterStudent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "Application.Features.Users.DTOs.RegisterStudentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolApp.Controllers.UsersController",
+    "Method": "RegisterSystemUser",
+    "RelativePath": "api/Users/RegisterSystemUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "Application.Features.Users.DTOs.RegisterSystemUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolApp.Controllers.UsersController",
+    "Method": "RegisterTeacherUser",
+    "RelativePath": "api/Users/RegisterTeacher",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "Application.Features.Users.DTOs.RegisterTeacherDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SchoolApp.Controllers.UsersController",
+    "Method": "RegisterTeacherAssistantUser",
+    "RelativePath": "api/Users/RegisterTeacherAssistant",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDto",
+        "Type": "Application.Features.Users.DTOs.RegisterTeacherAssistantDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
